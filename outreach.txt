@@ -1,0 +1,71 @@
+			<article id="outreach" class="wrapper style3">
+				<div class="container">
+					<header>
+						<p><font size="6" color="black"> My outreach work involves engaging and communicating science to the public by leading and organizing science festivals,public talks and events, speaking for public audiences about topics related to my research work and astronomy, and promoting an equiatable science culture to the public and colleague scientists. Below are some of the outreach events I've organized or participated in. </font></p>
+					</header>
+					 <div class="col-4 col-6-medium col-12-small">
+							<article class="box style2">
+								<a href="#" class="image featured"><img src="images/" alt="" /></a>
+								<h3><font size="6" color="black"><a href="#"></a></font></h3>
+								<p><font size="4" color="gray"></font></p>
+							</article>
+						</div>
+						<div class="col-4 col-6-medium col-12-small">
+							<article class="box style2">
+								<a href="#" class="image featured"><img src="images/" alt="" /></a>
+								<h3><font size="6" color="black"><a href="#"></a></font></h3>
+								<p><font size="4" color="gray"></font></p>
+							</article>
+						</div>
+						<div class="col-4 col-6-medium col-12-small">
+							<article class="box style2">
+								<a href="#" class="image featured"><img src="images/" alt="" /></a>
+								<h3><font size="6" color="black"><a href="#"></a></font></h3>
+								<p><font size="4" color="gray"></font></p>
+							</article>
+						</div>
+   					 <div class="col-4 col-6-medium col-12-small">
+   							<article class="box style2">
+   								<a href="#" class="image featured"><img src="images/" alt="" /></a>
+   								<h3><font size="6" color="black"><a href="#"></a></font></h3>
+   								<p><font size="4" color="gray"></font></p>
+   							</article>
+   						</div>
+   						<div class="col-4 col-6-medium col-12-small">
+   							<article class="box style2">
+   								<a href="#" class="image featured"><img src="images/" alt="" /></a>
+   								<h3><font size="6" color="black"><a href="#"></a></font></h3>
+   								<p><font size="4" color="gray"></font></p>
+   							</article>
+   						</div>
+   						<div class="col-4 col-6-medium col-12-small">
+   							<article class="box style2">
+   								<a href="#" class="image featured"><img src="images/" alt="" /></a>
+   								<h3><font size="6" color="black"><a href="#"></a></font></h3>
+   								<p><font size="4" color="gray"></font></p>
+   							</article>
+   						</div>
+					 <div class="col-4 col-6-medium col-12-small">
+							<article class="box style2">
+								<a href="#" class="image featured"><img src="images/" alt="" /></a>
+								<h3><font size="6" color="black"><a href="#"></a></font></h3>
+								<p><font size="4" color="gray"></font></p>
+							</article>
+						</div>
+						<div class="col-4 col-6-medium col-12-small">
+							<article class="box style2">
+								<a href="#" class="image featured"><img src="images/" alt="" /></a>
+								<h3><font size="6" color="black"><a href="#"></a></font></h3>
+								<p><font size="4" color="gray"></font></p>
+							</article>
+						</div>
+						<div class="col-4 col-6-medium col-12-small">
+							<article class="box style2">
+								<a href="#" class="image featured"><img src="images/" alt="" /></a>
+								<h3><font size="6" color="black"><a href="#"></a></font></h3>
+								<p><font size="4" color="gray"></font></p>
+							</article>
+						</div>						
+					</div>
+			</article>			
+
