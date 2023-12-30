@@ -243,8 +243,8 @@ input[type="checkbox"] {
     position: relative
 }
 .nav-item {
-    padding: 0 50px;
-	font-size: 30px;
+    padding: 0 30px;
+	font-size: 20px;
 }
 .nav-item a {
     border-bottom: 1px solid transparent;
